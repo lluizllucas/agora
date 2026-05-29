@@ -2,7 +2,7 @@
 
 Um comitê multidisciplinar para avaliar ideias de negócios físicos e operacionais. Você apresenta uma ideia — abrir uma empresa de limpeza de PCs, comprar uma impressora 3D para vender produtos, montar uma barbearia — e um time de especialistas analisa sob diferentes ângulos, com honestidade, sem otimismo fácil.
 
-Irmã do [Quorum](https://github.com/seuuser/quorum), que faz o mesmo para produtos digitais.
+Irmã do [Quorum](https://github.com/lluizllucas/quorum), que faz o mesmo para produtos digitais.
 
 ## O que é
 
